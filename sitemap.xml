@@ -2,7 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>http://git.xuanyu.info/</loc>
-         <lastmod>2023-01-31</lastmod>
+         <lastmod>2023-02-03</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://git.xuanyu.info/about/</loc>
+         <lastmod>2023-02-03</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://git.xuanyu.info/blog/</loc>
+         <lastmod>2023-02-03</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://git.xuanyu.info/github/</loc>
+         <lastmod>2023-02-03</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://git.xuanyu.info/ltu_projects/</loc>
+         <lastmod>2023-02-03</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://git.xuanyu.info/projects/</loc>
+         <lastmod>2023-02-03</lastmod>
+         <changefreq>daily</changefreq>
+    </url>
+    <url>
+         <loc>http://git.xuanyu.info/support/</loc>
+         <lastmod>2023-02-03</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
